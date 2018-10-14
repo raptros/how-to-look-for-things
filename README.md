@@ -11,7 +11,7 @@ In the moment where you have determined that something is missing, these are
 the steps you should take to get ready to go looking:
 
 1. Stop
-2. Breath
+2. Breathe
 3. Do not get frustrated, do not waste time complaining.
 4. Discard your preconceptions. Specifically, discard your notions of where the
    object "ought" to be; you have already determined that the object is, in
