@@ -85,7 +85,7 @@ should be willing to undertake all of these guidlines to ensure a thorough searc
 * Point at an object. Ask yourself:
     * What is this object I am pointing at?
     * Is this object the one I am looking for?
-  Make sure that you actually have the answers to both questions before moving
+* Make sure that you actually have the answers to both questions before moving
   on. You definitely do not want to answer the second question with "yes", and
   then fail to stop the search!
 * Move to a nearby item and do the same.
